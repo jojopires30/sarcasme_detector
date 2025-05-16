@@ -5,6 +5,6 @@
 
 # Je ne peux importer la base de données car elle est trop importante. 
 
-#Pour l'utilisation de notre modèle, veuillez voir notre rapport avec les librairires à télécharger et les étapes.
+# Pour l'utilisation de notre modèle, veuillez voir notre rapport avec les librairires à télécharger et les étapes.
 
 
